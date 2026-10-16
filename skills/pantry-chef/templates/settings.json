@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "setup_complete": false,
+  "data_dir": "~/PantryChef",
+  "units": "us",
+  "photo_intake": {
+    "mode": "chat",
+    "provider": null,
+    "inbox_path": null,
+    "after_use": null
+  },
+  "household": {
+    "people": 1,
+    "leftovers_ok": true
+  },
+  "meals_per_week": {
+    "breakfasts": 0,
+    "lunches": 0,
+    "dinners": 0,
+    "snacks": 0
+  },
+  "goals": {
+    "selected": [],
+    "notes": ""
+  },
+  "macro_goals": {
+    "per_serving": {
+      "calories_max": null,
+      "protein_g_min": null,
+      "carbs_g_max": null,
+      "fat_g_max": null,
+      "fiber_g_min": null,
+      "sodium_mg_max": null,
+      "added_sugar_g_max": null
+    },
+    "daily": {
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null
+    }
+  },
+  "diet": {
+    "allergies": [],
+    "restrictions": [],
+    "dislikes": [],
+    "cuisines_loved": [],
+    "cuisines_avoided": [],
+    "protein_preferences": [],
+    "proteins_avoided": [],
+    "meal_style": {
+      "mode": null,
+      "prep_days": [],
+      "equipment": [],
+      "notes": ""
+    },
+    "weeknight_max_active_min": null
+  },
+  "budget_quality": {
+    "overall": "balanced",
+    "per_category": {}
+  },
+  "quality": {
+    "organic": []
+  },
+  "assumed_basics": [
+    "salt",
+    "black pepper",
+    "olive oil",
+    "neutral cooking oil",
+    "water"
+  ],
+  "stores": {
+    "enabled": [],
+    "details": {},
+    "fulfillment": "ask",
+    "zip": null,
+    "locations": {}
+  },
+  "recipe_sources": {
+    "preferred": [],
+    "blocked": []
+  }
+}
