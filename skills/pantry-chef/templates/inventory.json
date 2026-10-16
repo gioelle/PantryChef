@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "areas_last_photographed": {
+    "cabinet": null,
+    "pantry": null,
+    "fridge": null,
+    "freezer": null
+  },
+  "items": [],
+  "on_order": null,
+  "shopping_queue": []
+}
